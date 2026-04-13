@@ -1,0 +1,4 @@
+Images=jpg,jpeg,png,gif,bmp
+Documents=pdf,docx,doc,txt,xlsx
+Archives=zip,rar,7z
+Other=
